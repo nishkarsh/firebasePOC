@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FireBaseAndroidPOC</string>
+    <string name="message_fetching_data">Fetching data from Firebase…</string>
 </resources>
